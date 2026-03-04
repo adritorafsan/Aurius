@@ -21,9 +21,9 @@ const Action = () => {
                     <button className='bg-[#FF5101] px-4 py-2 rounded-sm flex justify-center items-center text-white hover:bg-[#f9631e] cursor-pointer'>Request a demo</button>
                 </div>
 
-                <div className='pt-10 pb-15 pl-5 h-[96.4%] flex justify-center items-center   row-span-2'><img  src={rightcoloumn} alt="Action" /></div>
+                <div className='pt-10 pb-15 pl-5 border-0 flex justify-center items-center   row-span-2'><img  src={rightcoloumn} alt="Action" /></div>
 
-                <div className='pt-10 pb-15 pl-5 border-r border-b border-[#CCCCCC] h-fit space-y-6.75'>
+                <div className='pt-10 pb-15 pl-5 border-r border-b border-[#CCCCCC]  space-y-6.75'>
                     <img  src={action} alt="action" />
                     <h3 className='text-[#3D3D3D] text-[18px] w-[385.37px]'>“Aurius streamlined our entire scheduling and
                         communication flow—what took hours now
