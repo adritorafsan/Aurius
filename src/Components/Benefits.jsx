@@ -5,7 +5,7 @@ import benefit4 from '../assets/benefit4.svg'
 
 const Benefits = () => {
     return (
-        <div className='border border-[#CCCCCC] grid grid-cols-2 grid-rows-4'>
+        <div className='border border-[#CCCCCC] grid grid-cols-2 grid-rows-4 mb-15'>
             <div className='border-b border-b-[#CCCCCC] col-span-2 flex flex-col justify-center items-center gap-y-4'>
                 <p className='flex justify-center items-center gap-x-2 text-xl font-normal text-[#3D3D3D]'><p className='size-3 bg-[#FF5101]'></p>BENEFITS</p>
                 <h1 className='text-[40px] text-[#181818]'>Smarter workflows, zero friction</h1>

@@ -3,6 +3,7 @@ import Benefits from "./Components/Benefits"
 import Hero from "./Components/Hero"
 import Metrics from "./Components/Metrics"
 import Navbar from "./Components/Navbar"
+import Products from "./Components/Products"
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Action />
       <Metrics />
       <Benefits />
+      <Products />
     </div>
 
     </>
