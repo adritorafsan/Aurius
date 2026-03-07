@@ -1,5 +1,6 @@
 import Action from "./Components/Action"
 import Benefits from "./Components/Benefits"
+import Blogs from "./Components/Blogs"
 import Hero from "./Components/Hero"
 import HowWorks from "./Components/HowWorks"
 import Metrics from "./Components/Metrics"
@@ -20,6 +21,7 @@ function App() {
       <Benefits />
       <Products />
       <HowWorks />
+      <Blogs />
     </div>
 
     </>
