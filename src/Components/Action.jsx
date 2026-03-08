@@ -4,7 +4,7 @@ import rightcoloumn from '../assets/rightcoloumn.png'
 
 const Action = () => {
     return (
-        <div className='mt-20 w-fit gap-0 border border-[#CCCCCC] h-fit'>
+        <div className='mb-20 w-fit gap-0 border border-[#CCCCCC] h-fit'>
             <div className='grid grid-cols-2 grid-rows-3 divide-x divide-y h-fit'>
 
                 <div className='pt-10 pb-15 pl-5  border-[#CCCCCC] col-span-2  space-y-4.5'>

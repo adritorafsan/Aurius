@@ -7,7 +7,7 @@ import quotient from '../assets/quotient.svg'
 
 const Hero = () => {
     return (
-        <div className=" border border-t-0 mb-1  border-[#CCC]">
+        <div className=" border border-t-0 mb-20  border-[#CCC]">
             <div className='mx-5 pt-25 flex flex-col justify-center items-center gap-y-4'>
                 <div className='text-center space-y-4.25'>
                     <p className='text-base/tight text-[56px] font-medium text-black'>AI Agents that automate <p className='text-[56px] font-medium text-black'>modern workflows</p></p>
