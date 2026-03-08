@@ -1,11 +1,14 @@
 import Action from "./Components/Action"
 import Benefits from "./Components/Benefits"
 import Blogs from "./Components/Blogs"
+import Faq from "./Components/Faq"
+import Footer from "./Components/Footer"
 import Hero from "./Components/Hero"
 import HowWorks from "./Components/HowWorks"
 import Metrics from "./Components/Metrics"
 import Navbar from "./Components/Navbar"
 import Products from "./Components/Products"
+import Testimonial from "./Components/Testimonial"
 
 
 function App() {
@@ -22,6 +25,11 @@ function App() {
       <Products />
       <HowWorks />
       <Blogs />
+      <Testimonial />
+      <Faq />
+    </div>
+    <div className=" bg-black">
+      <Footer />
     </div>
 
     </>
