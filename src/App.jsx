@@ -6,6 +6,7 @@ import HowWorks from "./Components/HowWorks"
 import Metrics from "./Components/Metrics"
 import Navbar from "./Components/Navbar"
 import Products from "./Components/Products"
+import Testimonial from "./Components/Testimonial"
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
       <Products />
       <HowWorks />
       <Blogs />
+      <Testimonial />
     </div>
 
     </>
