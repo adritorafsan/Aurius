@@ -18,7 +18,7 @@ function App() {
   return (
     <>
      <Navbar />
-    <div className=" max-w-360 px-30 mx-auto">
+    <div className=" max-w-360 px-10 md:px-30 mx-auto">
       <Hero />
       <Action />
       <Benefits />
